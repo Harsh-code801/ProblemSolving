@@ -20,8 +20,8 @@ namespace MyApp
             int[] arr = new int[] { 101, 168, 93, 188, 133, 157, 175 };
             foreach (int i in SubArrayWithGivenSum(arr, arr.Length, 167))
                 Console.WriteLine(i + " ");
-            Console.ReadLine();
             #endregion
+            Console.ReadLine();
         }
         public static long MaxSubarraySumWithContinusarr(int[] array, int n)
         {
