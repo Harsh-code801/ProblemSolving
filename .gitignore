@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ProblemSolving.sln
+/ProblemSolving/ProblemSolving.csproj
+/ProblemSolving/ProblemSolving.csproj
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/ProjectEvaluation/problemsolving.projects.v6.1
+/.vs/ProjectEvaluation/problemsolving.metadata.v6.1
+/ProblemSolving.sln
+/.vs/ProblemSolving/v17/.wsuo
+/.vs/ProblemSolving/v17/.suo
+/.vs/ProblemSolving/v17/.futdcache.v2
+/.vs/ProblemSolving/FileContentIndex/921576a7-439e-47ea-baaf-fea5b2fd972b.vsidx
+/.vs/ProblemSolving/FileContentIndex/2f5666e5-1bb7-467a-989c-7885a1743cae.vsidx
